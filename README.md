@@ -14,7 +14,7 @@ From the repository homepage (which will be http://github.com/YOURUSERNAME/fewd9
 
 ### Step 3 - Build!
 
-Create your index.html and about.html files. Then, write plain text for the content and mark it up, utilize all of the tags we've learned this week: `<h1>` through `<h6>`, `<p>`, `<a>`, `<img>`, `<ul>`
+Create your index.html and about.html files. Then, write plain text for the content and mark it up, utilizing all of the tags we've learned this week: `<h1>` through `<h6>`, `<p>`, `<a>`, `<img>`, `<ul>`
 
 Add CSS styles, an image, and link the two pages together.
 
