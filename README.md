@@ -22,8 +22,8 @@ Use Wendy Bite’s website as a guide, but feel free to branch-out or get as cre
 
 ### Step 4 - Commit and Sync
 
-This step is confusing. You can work on your website locally and view it in the browser by opening your index.html file. Before you can submit your assignment, you will need to "Commit" and "Sync" your site at least one time. We will walk through this process together.
+This step is confusing. You can work on your website locally and view it in the browser by opening your index.html file. Before you can submit your assignment, though, you will need to "Commit" and "Sync" your site at least one time. This process takes the changes you've made on your computer and sends them to github.com. We will walk through this process together.
 
-### Step 4 - Submit
+### Step 5 - Submit
 
-Once you are happy with your website, you will send a "Pull Request" to us. This basically creates an alert which tells us you are "done" with your forked code and that we can review. We will walk through this process together at the start of class in Week 2. In the future, this should be done before the Tuesday class starts.
+Once you are happy with your website (and you've done Step 4), you will send a "Pull Request". This process creates an alert which tells us you are "done" with your forked code and that we can review. We will walk through this process together at the start of class in Week 2. In the future, this should be done before the Tuesday class starts.
