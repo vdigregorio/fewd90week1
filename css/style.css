@@ -3,18 +3,18 @@ body{
 	font-family: helvetica;
 }
 h1{
-font-size: 25px;
-font-style: bold;
-text-align: center;
+	font-size: 25px;
+	font-style: bold;
+	text-align: center;
 }
 h2{
-font-size: 20px;
-font-style: bold;
+	font-size: 20px;
+	font-style: bold;
 
 }
 h3{
-font-size: 20px;
-font-style: bold;
+	font-size: 20px;
+	font-style: bold;
 
 }
 h4{
